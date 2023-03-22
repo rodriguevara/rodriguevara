@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Yendo! Food delivery app](https://github.com/No-Country/C9-03)
+- 🔭 I’m currently working on:
+  ° [Yendo! Food delivery app](https://github.com/No-Country/C9-03)
 
 - 🌱 I’m currently learning **Ruby on Rails, Hotwire and Stimulus**
 
