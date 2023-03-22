@@ -2,7 +2,8 @@
 <h3 align="center">A passionate software developer from Argentina</h3>
 
 - 🔭 I’m currently working on:
-  ° [Yendo! Food delivery app](https://github.com/No-Country/C9-03)
+  - [Yendo! Food delivery app](https://github.com/No-Country/C9-03)
+  - Building my own online store website: [GOAT Zapatillas](https://github.com/rodriguevara/ecommerce
 
 - 🌱 I’m currently learning **Ruby on Rails, Hotwire and Stimulus**
 
