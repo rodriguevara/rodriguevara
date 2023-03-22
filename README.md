@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
   - [Yendo! Food delivery app](https://github.com/No-Country/C9-03)
-  - Building my own online store website: [GOAT Zapatillas](https://github.com/rodriguevara/ecommerce
+  - Building my own online shoes store: [GOAT Zapatillas](https://github.com/rodriguevara/ecommerce)
 
 - 🌱 I’m currently learning **Ruby on Rails, Hotwire and Stimulus**
 
